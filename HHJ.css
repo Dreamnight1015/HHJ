@@ -1,0 +1,19 @@
+.image {
+  width: 400px;
+}
+
+.image1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  width: 100vw;
+  height: 100%;
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
